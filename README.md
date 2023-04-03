@@ -1,5 +1,5 @@
 ![log](https://github.com/shanto-Fz/shanto-Fz/blob/main/IMG_20230403_180907.jpg)
-
+background-color:black;
 <h1 align="center">Hi 👋, I'm MD Hasibul Islam</h1>
 <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" align="right" width="350" height="240" alt="coding">
 <h3 align="center">I am very interested in learning coding 💗</h3>
