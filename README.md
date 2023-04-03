@@ -1,11 +1,11 @@
-[logo](https://github.com/shanto-Fz/shanto-Fz/blob/main/IMG_20230331_102111.png)
+![log](https://github.com/shanto-Fz/shanto-Fz/blob/main/IMG_20230403_180907.jpg)
 
 <h1 align="center">Hi 👋, I'm MD Hasibul Islam</h1>
 
 <h3 align="center">I am very interested in learning coding💗</h3>
 <img src="!https://user-images.githubusercontent.com/128900301/229493650-467430ce-edfd-42ad-9257-933bda7da859.png
 " width="400px" align="right">
-- 📫 How to reach me **shantone12ten@gmail.com**
+- 📫 Reach me: shantone12ten@gmail.com
 
 - ⚡ Fun fact **I think you would find me funny.**
 
